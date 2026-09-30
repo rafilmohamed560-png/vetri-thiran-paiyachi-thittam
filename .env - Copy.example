@@ -1,0 +1,14 @@
+# Google Gemini API key. Get one from Google AI Studio.
+GEMINI_API_KEY=your_api_key_here
+
+# Current Gemini model. Change without modifying code.
+GEMINI_MODEL=gemini-2.5-flash
+
+# Set true to run the application without an API key using a deterministic demo generator.
+DEMO_MODE=false
+
+# Backend URL used by Streamlit.
+BACKEND_URL=http://127.0.0.1:8000
+
+# Optional CORS origins, comma-separated.
+CORS_ORIGINS=http://localhost:8501,http://127.0.0.1:8501

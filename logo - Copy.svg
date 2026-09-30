@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="160" viewBox="0 0 600 160">
+<rect width="600" height="160" rx="28" fill="#111827"/>
+<g fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round">
+<path d="M100 38v84"/><path d="M55 55h90"/><path d="M72 55l-28 48h56z"/><path d="M128 55l-28 48h56z"/>
+</g>
+<text x="180" y="92" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">LegalEase AI</text>
+</svg>
